@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="opgave1">
+      <HintPath>dll\opgave1.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
